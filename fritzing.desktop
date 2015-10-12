@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Fritzing
+Comment=My application which does this
+Icon=/usr/share/fritzing/icon.png
+Exec=/usr/share/fritzing/Fritzing
+Type=Application
+Encoding=UTF-8
+Terminal=false
+Categories=None;
